@@ -1,4 +1,4 @@
-### Hi I'm João, just another DEV who wants to change the WORLD 👋
+### Hi there I'm João, just another DEV who wants to change the WORLD 👋
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsouza06&layout=compact&theme=dark)](https://github.com/jpsouza06?tab=repositories)
